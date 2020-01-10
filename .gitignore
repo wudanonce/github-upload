@@ -1,0 +1,8 @@
+# Ignore Images
+/pics/*
+
+# Ignore Text except for readme
+/*.txt
+!/readme.txt
+
+
